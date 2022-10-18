@@ -21,7 +21,6 @@
 
 - I am always open up for learning new challenges.
 
-![Coding Wars Badge](https://www.codewars.com/users/rohailrasheed/badges/large)
 
 #### My Certifications
 
