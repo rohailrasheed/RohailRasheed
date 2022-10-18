@@ -22,10 +22,12 @@
 - I am always open up for learning new challenges.
 
 
+
 #### My Certifications
 
 
 <img alt="microsoft-certified-azure-fundamentals" src="https://user-images.githubusercontent.com/40695548/152005929-ae2b1aa2-22cc-4a05-afb0-8688d62d7f81.png" width="100px"/>
+
 
 
 #### What I have learned
