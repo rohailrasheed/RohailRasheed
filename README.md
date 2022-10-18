@@ -1,7 +1,7 @@
 
 
 <div align='center'>
-   <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5%"> I'm an Engineer having a desire to make contributions in Engineering domain </h2>
+   <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5%"> I'm an Engineer who desires to make contributions in Engineering domain </h2>
  
 <a href="https://www.linkedin.com/in/rohail-rasheed-1360131aa"><img align="center" alt="Linkedin" src="https://user-images.githubusercontent.com/40695548/156189387-4a94d172-b291-4e04-8521-59736c14354d.png" width="60px"/></a>
 </div>
