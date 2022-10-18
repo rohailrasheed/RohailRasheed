@@ -21,9 +21,7 @@
 
 - I am always open up for learning new challenges.
 
-- <a href="https://arsalanshakil.github.io/" >Checkout my website</a>
-
-![Coding Wars Badge](https://www.codewars.com/users/ArsalanShakil/badges/large)
+![Coding Wars Badge](https://www.codewars.com/users/rohailrasheed/badges/large)
 
 #### My Certifications
 
