@@ -12,7 +12,7 @@
 
 
 <p text-align="center">
-  <h3> Research and Development (R&D) in Aerospace and Automobiles </h3>
+  <h3> Research and Development </h3>
 </p> 
 
 - I am currently pursuing a degree in Software Engineering. :blush:
