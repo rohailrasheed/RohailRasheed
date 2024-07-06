@@ -15,7 +15,7 @@
   <h3> Research and Development </h3>
 </p> 
 
-- I am currently pursuing a degree in Software Engineering. :blush:
+- Iam a recent Software Engineering Graduate. :blush:
 
 - I am always open to embracing new challenges and opportunities for learning. <br/><br/>
 
