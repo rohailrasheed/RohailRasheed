@@ -1,4 +1,4 @@
-![logo](https://github.com/rohailrasheed/RohailRasheed/blob/main/Poster.jpg)
+#![logo](https://github.com/rohailrasheed/RohailRasheed/blob/main/Poster.jpg)
 
 <div align='center'>
    <h2><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="5%"> Unlocking the World of Software Engineering: Real-world Projects and Research Contributions </h2>
